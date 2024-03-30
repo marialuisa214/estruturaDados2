@@ -25,7 +25,7 @@ void novaCoordenada(int direcao) {
 int main() {
     int linhas, colunas;
     scanf("%d  %d", &linhas, &colunas);
-    scanf("%d  %d", &ymic, &xmic);
+    scanf("%d  %d", &xmic, &ymic);
 
     int passeio;
     scanf("%d", &passeio);
@@ -34,10 +34,8 @@ int main() {
     while (passeio > 0) {
         scanf("%d", &direcao);
         novaCoordenada(direcao);
-
-        // printf("\n\n%d  %d\n\n", xBandido, yBandido);
-
         invadiu();
+        // printf("%d %d, %d\n", xBandido, yBandido, minutos );
 
         passeio--;
     }
