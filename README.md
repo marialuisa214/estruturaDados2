@@ -9,6 +9,13 @@
 
 Repositório dedicado às listas e implementações de atividades e projetos realizados na disciplina de Estrutura de Dados 2, prof. Jonh Lennon, durante o curso de graduação em Engenharia de Software.
 
+## Glossário
+Os os emoticons presentes nos comentarios representão o nível de dificuldade que EU apresentei ao tentar implementar a resolução, seque abaixo o glossario:
+
+ -  🔥   difícil
+ -  🆗   médio
+ -  💤   fácil
+
 ## Estrutura do Repositório
 O repositório está organizado da seguinte forma:
 
@@ -39,7 +46,6 @@ O repositório está organizado da seguinte forma:
   |   |   |-- ...
   |   |...
 ```
-
 
 ## ❗❗❗ Aviso Legal
 Este repositório destina-se apenas ao compartilhamento de conhecimento e não é uma fonte autorizada para atividades acadêmicas. Por favor, utilize-o de forma ética e em conformidade com as políticas de sua instituição de ensino.
